@@ -1,6 +1,6 @@
-import express from "express"
+import express from 'express'
 
-import TicketsRoutes from "@routes/tickets.routes"
+import TicketsRoutes from '@routes/tickets.routes'
 
 const app = express()
 
