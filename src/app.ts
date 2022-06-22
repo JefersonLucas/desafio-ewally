@@ -1,9 +1,9 @@
 import express from 'express'
 
-import TicketsRoutes from '@routes/tickets.routes'
+import TicketRoute from '@routes/ticket.routes'
 
 const app = express()
 
-app.use('/boletos', TicketsRoutes)
+app.use('/boletos', TicketRoute)
 
 export default app
