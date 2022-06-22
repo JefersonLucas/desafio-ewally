@@ -14,11 +14,10 @@
     "baseUrl": "./src",
     "paths": {
 			"@controllers/*": ["controllers/*"],
-			"@middlewares/*": ["middlewares/*"],
-			"@models/*": ["models/*"],
 			"@repositories/*": ["repositories/*"],
 			"@routes/*": ["routes/*"],
 			"@services/*": ["services/*"],
+			"@utils/*": ["utils/*"]
 		}
   }
 }
