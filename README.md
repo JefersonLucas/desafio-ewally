@@ -8,7 +8,7 @@ Queremos poder através da aplicação consultar linhas digitáveis de boleto de
 
 Para utilizar a aplicação no [Heroku](https://desafio-ewally.herokuapp.com), siga as instruções:
 
-- Exemplo de requisição `GET/` https://desafio-ewally.herokuapp.com/boleto/21290001192110001210904475617405975870000002000
+- Exemplo de requisição `GET/` https://desafio-ewally.herokuapp.com/boletos/21290001192110001210904475617405975870000002000
 
 - Exemplo de resposta:
 ```jsonc
@@ -45,11 +45,11 @@ npm run dev
 yarn dev
 ```
 
-- Utilize algum client HTTP ou mesmo no navegador abra em [http://localhost:8080/boleto/xxxx](http://localhost:8080/boleto/xxxx) para fazer as requisições.
+- Utilize algum client HTTP ou mesmo no navegador abra em [http://localhost:8080/boletos/xxxx](http://localhost:8080/boletos/xxxx) para fazer as requisições.
 
 - Exemplo de requisição:
 
-  - [http://localhost:8080/boleto/21290001192110001210904475617405975870000002000](http://localhost:8080/boleto/21290001192110001210904475617405975870000002000) 
+  - [http://localhost:8080/boletos/21290001192110001210904475617405975870000002000](http://localhost:8080/boletos/21290001192110001210904475617405975870000002000) 
 
 - Exemplo de resposta:
 
